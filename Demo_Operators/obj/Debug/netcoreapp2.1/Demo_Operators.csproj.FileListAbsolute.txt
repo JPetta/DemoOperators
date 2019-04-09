@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\bin\Debug\netcoreapp2.1\Demo_Operators.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\bin\Debug\netcoreapp2.1\Demo_Operators.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\bin\Debug\netcoreapp2.1\Demo_Operators.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\bin\Debug\netcoreapp2.1\Demo_Operators.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\bin\Debug\netcoreapp2.1\Demo_Operators.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Operators\Demo_Operators\obj\Debug\netcoreapp2.1\Demo_Operators.pdb
